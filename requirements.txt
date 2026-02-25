@@ -5,4 +5,5 @@ pyarrow
 scikit-learn
 imblearn
 xgboost
+joblib
 -e .
